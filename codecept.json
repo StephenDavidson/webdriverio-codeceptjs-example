@@ -1,0 +1,17 @@
+{
+  "tests": "./tests/*.test.js",
+  "timeout": 10000,
+  "output": "./output",
+  "helpers": {
+    "WebDriverIO": {
+      "url": "https://google.com",
+      "browser": "firefox"
+    }
+  },
+  "include": {
+    "I": "./custom_steps.js"
+  },
+  "bootstrap": false,
+  "mocha": {},
+  "name": "webdriverio-codeceptjs"
+}

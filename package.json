@@ -1,0 +1,30 @@
+{
+  "name": "webdriverio-codeceptjs",
+  "version": "1.0.0",
+  "description": "Test automation example with codeceptjs and webdriverio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/.bin/codeceptjs run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenDavidson/webdriverio-codeceptjs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react",
+    "webdriverio",
+    "codeceptjs"
+  ],
+  "author": "Stephen Davidson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephenDavidson/webdriverio-codeceptjs/issues"
+  },
+  "homepage": "https://github.com/StephenDavidson/webdriverio-codeceptjs#readme",
+  "dependencies": {
+    "codeceptjs": "^0.4.3",
+    "selenium-server": "^2.53.1",
+    "webdriverio": "^4.2.5"
+  }
+}
