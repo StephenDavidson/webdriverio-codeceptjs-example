@@ -7,5 +7,5 @@ before_script:
   - sleep 3
 script:
   - "npm install"
-  - "./node_modules/.bin/selenium-server"
+  - "./node_modules/.bin/selenium"
   - "npm test"
