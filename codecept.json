@@ -9,7 +9,8 @@
     }
   },
   "include": {
-    "I": "./custom_steps.js"
+    "I": "./custom_steps.js",
+    "homePage": "./pages/home.js"
   },
   "bootstrap": false,
   "mocha": {},
