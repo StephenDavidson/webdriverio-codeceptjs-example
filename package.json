@@ -1,5 +1,5 @@
 {
-  "name": "webdriverio-codeceptjs",
+  "name": "webdriverio-codeceptjs-example",
   "version": "1.0.0",
   "description": "Test automation example with codeceptjs and webdriverio",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StephenDavidson/webdriverio-codeceptjs.git"
+    "url": "git+https://github.com/StephenDavidson/webdriverio-codeceptjs-example.git"
   },
   "keywords": [
     "nodejs",

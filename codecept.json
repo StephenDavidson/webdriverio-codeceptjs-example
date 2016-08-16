@@ -14,5 +14,5 @@
   },
   "bootstrap": false,
   "mocha": {},
-  "name": "webdriverio-codeceptjs"
+  "name": "webdriverio-codeceptjs-example"
 }

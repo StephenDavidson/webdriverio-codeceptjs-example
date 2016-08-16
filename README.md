@@ -1,10 +1,10 @@
-# webdriverio-codeceptjs
+# webdriverio-codeceptjs-example
 Test automation with webdriverio and codeceptjs
 
 ## Getting Started
 Let's setup the repo and install dependencies:
 ```
-cd webdriverio-codeceptjs
+cd webdriverio-codeceptjs-example/
 npm install
 ```
 
